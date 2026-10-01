@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Stylish Sneakers",
+        "image": "https://via.placeholder.com/150?text=Stylish+Sneakers",
+        "price": 59.99,
+        "sizes": ["S", "M", "L"],
+        "colors": ["Red", "Blue", "Green"]
+    },
+    {
+        "id": 2,
+        "name": "Casual Sandals",
+        "image": "https://via.placeholder.com/150?text=Casual+Sandals",
+        "price": 39.99,
+        "sizes": ["S", "M", "L"],
+        "colors": ["Brown", "Black"]
+    },
+    {
+        "id": 3,
+        "name": "Classic White T-Shirt",
+        "image": "https://via.placeholder.com/150?text=Classic+White+T-Shirt",
+        "price": 19.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["White", "Black"]
+    },
+    {
+        "id": 4,
+        "name": "Denim Jacket",
+        "image": "https://via.placeholder.com/150?text=Denim+Jacket",
+        "price": 89.99,
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Blue", "Black"]
+    },
+    {
+        "id": 5,
+        "name": "Leather Backpack",
+        "image": "https://via.placeholder.com/150?text=Leather+Backpack",
+        "price": 129.99,
+        "sizes": ["One Size"],
+        "colors": ["Brown", "Black"]
+    },
+    {
+        "id": 6,
+        "name": "Running Shoes",
+        "image": "https://via.placeholder.com/150?text=Running+Shoes",
+        "price": 69.99,
+        "sizes": ["M", "L"],
+        "colors": ["Gray", "Black"]
+    },
+    {
+        "id": 7,
+        "name": "Wool Sweater",
+        "image": "https://via.placeholder.com/150?text=Wool+Sweater",
+        "price": 49.99,
+        "sizes": ["S", "M", "L"],
+        "colors": ["Red", "Navy"]
+    },
+    {
+        "id": 8,
+        "name": "Chino Pants",
+        "image": "https://via.placeholder.com/150?text=Chino+Pants",
+        "price": 39.99,
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Beige", "Navy"]
+    },
+    {
+        "id": 9,
+        "name": "Graphic Hoodie",
+        "image": "https://via.placeholder.com/150?text=Graphic+Hoodie",
+        "price": 59.99,
+        "sizes": ["S", "M", "L"],
+        "colors": ["Black", "Gray"]
+    },
+    {
+        "id": 10,
+        "name": "Sport Watch",
+        "image": "https://via.placeholder.com/150?text=Sport+Watch",
+        "price": 199.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Silver"]
+    },
+    {
+        "id": 11,
+        "name": "Sunglasses",
+        "image": "https://via.placeholder.com/150?text=Sunglasses",
+        "price": 29.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Brown"]
+    },
+    {
+        "id": 12,
+        "name": "Baseball Cap",
+        "image": "https://via.placeholder.com/150?text=Baseball+Cap",
+        "price": 19.99,
+        "sizes": ["One Size"],
+        "colors": ["Red", "Blue"]
+    },
+    {
+        "id": 13,
+        "name": "Formal Shirt",
+        "image": "https://via.placeholder.com/150?text=Formal+Shirt",
+        "price": 49.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["White", "Light Blue"]
+    },
+    {
+        "id": 14,
+        "name": "Cargo Shorts",
+        "image": "https://via.placeholder.com/150?text=Cargo+Shorts",
+        "price": 34.99,
+        "sizes": ["M", "L"],
+        "colors": ["Khaki", "Olive"]
+    },
+    {
+        "id": 15,
+        "name": "Beach Towel",
+        "image": "https://via.placeholder.com/150?text=Beach+Towel",
+        "price": 24.99,
+        "sizes": ["One Size"],
+        "colors": ["Blue", "Yellow"]
+    },
+    {
+        "id": 16,
+        "name": "Yoga Mat",
+        "image": "https://via.placeholder.com/150?text=Yoga+Mat",
+        "price": 39.99,
+        "sizes": ["One Size"],
+        "colors": ["Purple", "Green"]
+    },
+    {
+        "id": 17,
+        "name": "Fitness Tracker",
+        "image": "https://via.placeholder.com/150?text=Fitness+Tracker",
+        "price": 99.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Pink"]
+    },
+    {
+        "id": 18,
+        "name": "Travel Mug",
+        "image": "https://via.placeholder.com/150?text=Travel+Mug",
+        "price": 19.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "White"]
+    },
+    {
+        "id": 19,
+        "name": "Wireless Earbuds",
+        "image": "https://via.placeholder.com/150?text=Wireless+Earbuds",
+        "price": 79.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "White"]
+    },
+    {
+        "id": 20,
+        "name": "Portable Charger",
+        "image": "https://via.placeholder.com/150?text=Portable+Charger",
+        "price": 29.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Red"]
+    },
+    {
+        "id": 21,
+        "name": "Bluetooth Speaker",
+        "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker",
+        "price": 49.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Blue"]
+    },
+    {
+        "id": 22,
+        "name": "Laptop Sleeve",
+        "image": "https://via.placeholder.com/150?text=Laptop+Sleeve",
+        "price": 39.99,
+        "sizes": ["One Size"],
+        "colors": ["Gray", "Black"]
+    },
+    {
+        "id": 23,
+        "name": "Desk Organizer",
+        "image": "https://via.placeholder.com/150?text=Desk+Organizer",
+        "price": 24.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "White"]
+    },
+    {
+        "id": 24,
+        "name": "Wall Art",
+        "image": "https://via.placeholder.com/150?text=Wall+Art",
+        "price": 59.99,
+        "sizes": ["One Size"],
+        "colors": ["Multicolor"]
+    },
+    {
+        "id": 25,
+        "name": "Coffee Maker",
+        "image": "https://via.placeholder.com/150?text=Coffee+Maker",
+        "price": 89.99,
+        "sizes": ["One Size"],
+        "colors": ["Black", "Silver"]
+    }
+]
