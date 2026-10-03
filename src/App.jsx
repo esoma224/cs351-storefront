@@ -5,7 +5,7 @@ import {
   Route,
 } from "react-router-dom";
 
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import ProductList from "./components/ProductList";
 import products from "./data/products.json";
 import AccountView from "./views/AccountView";
